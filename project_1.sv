@@ -1,6 +1,6 @@
 // top level
 
-module projet_1 (
+module project_1 (
     input logic clock_50,
     output logic [6:0] hex0,
     output logic [6:0] hex1,
